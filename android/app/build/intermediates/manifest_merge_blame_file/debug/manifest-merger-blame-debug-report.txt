@@ -1,0 +1,125 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.leancloudpushdemo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:4:5-78
+11-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:4:22-75
+12
+13    <!-- 基础模块（必须加入以下声明）START -->
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:7:5-81
+14-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:7:22-78
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:8:5-67
+15-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:8:22-64
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:9:5-79
+16-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:9:22-76
+17    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+17-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:10:5-75
+17-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:10:22-72
+18    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+18-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:11:5-76
+18-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:11:22-73
+19    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> <!-- 基础模块 END -->
+20    <application
+20-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:14:5-51:19
+21        android:name="com.leancloudpushdemo.MainApplication"
+21-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:15:9-40
+22        android:allowBackup="false"
+22-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:16:9-36
+23        android:debuggable="true"
+24        android:icon="@mipmap/ic_launcher"
+24-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:17:9-43
+25        android:label="@string/app_name"
+25-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:18:9-41
+26        android:theme="@style/AppTheme" >
+26-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:19:9-40
+27        <activity
+27-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:20:9-29:20
+28            android:name="com.leancloudpushdemo.MainActivity"
+28-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:21:13-41
+29            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+29-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:22:13-83
+30            android:label="@string/app_name"
+30-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:23:13-45
+31            android:windowSoftInputMode="adjustResize" >
+31-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:24:13-55
+32            <intent-filter>
+32-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:25:13-28:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:26:17-69
+33-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:26:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:27:17-77
+35-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:27:27-74
+36            </intent-filter>
+37        </activity>
+38        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+38-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:30:9-86
+38-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:30:19-83
+39
+40        <!-- 实时通信模块、推送（均需要加入以下声明） START -->
+41        <!-- 实时通信模块、推送都要使用 PushService -->
+42        <service android:name="com.avos.avoscloud.PushService" />
+42-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:34:9-66
+42-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:34:18-63
+43
+44        <receiver android:name="com.avos.avoscloud.AVBroadcastReceiver" >
+44-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:35:9-41:20
+44-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:35:19-72
+45            <intent-filter>
+45-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:36:13-40:29
+46                <action android:name="android.intent.action.BOOT_COMPLETED" />
+46-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:37:17-79
+46-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:37:25-76
+47                <action android:name="android.intent.action.USER_PRESENT" />
+47-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:38:17-77
+47-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:38:25-74
+48                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+48-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:39:17-79
+48-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:39:25-76
+49            </intent-filter>
+50        </receiver>
+51        <!-- 实时通信模块、推送 END -->
+52
+53        <activity android:name="com.leancloudpushdemo.PushHandlerActivity" />
+53-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:44:9-66
+53-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:44:19-54
+54
+55        <receiver android:name="com.leancloudpushdemo.CustomPushReceiver" >
+55-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:46:9-50:20
+55-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:46:19-74
+56            <intent-filter>
+56-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:47:13-49:29
+57                <action android:name="com.cnuip.INNER_NOTI" />
+57-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:48:17-63
+57-->/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:48:25-60
+58            </intent-filter>
+59        </receiver>
+60
+61        <meta-data
+61-->[com.android.support:appcompat-v7:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/2a6408162ae72b6b50d8ffce4e1e14f0/appcompat-v7-26.1.0/AndroidManifest.xml:26:9-28:38
+62            android:name="android.support.VERSION"
+62-->[com.android.support:appcompat-v7:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/2a6408162ae72b6b50d8ffce4e1e14f0/appcompat-v7-26.1.0/AndroidManifest.xml:27:13-51
+63            android:value="26.1.0" />
+63-->[com.android.support:appcompat-v7:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/2a6408162ae72b6b50d8ffce4e1e14f0/appcompat-v7-26.1.0/AndroidManifest.xml:28:13-35
+64        <meta-data
+64-->[android.arch.lifecycle:runtime:1.0.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/016519dd5dae03a0fb2149978231920e/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+65            android:name="android.arch.lifecycle.VERSION"
+65-->[android.arch.lifecycle:runtime:1.0.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/016519dd5dae03a0fb2149978231920e/runtime-1.0.0/AndroidManifest.xml:26:13-58
+66            android:value="27.0.0-SNAPSHOT" />
+66-->[android.arch.lifecycle:runtime:1.0.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/016519dd5dae03a0fb2149978231920e/runtime-1.0.0/AndroidManifest.xml:27:13-44
+67    </application>
+68
+69</manifest>

@@ -1,0 +1,13 @@
+
+w
+java:S3008"URename this field "ON_RECEIVE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’şº¿ÿÿÿÿÿ8ü¶İû…/
+H
+java:S3010"&Remove this assignment of "singleton".(®¼×ûÿÿÿÿ8ü¶İû…/
+~
+java:S3008"\Rename this field "ON_CUSTOM_RECEIVE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äâ¢­şÿÿÿÿ8ü¶İû…/
+u
+java:S3008"SRename this field "ON_ERROR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã˜ âøÿÿÿÿ8ü¶İû…/
+
+java:S1186-"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•à8ü¶İû…/
+£
+java:S1186)"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µ°÷¨üÿÿÿÿ8ü¶İû…/

@@ -1,0 +1,4 @@
+#Fri Mar 26 10:58:56 CST 2021
+base.0=/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.4.0/b32aba0cbe737a4ca953f71688725972e3ee927c/protobuf-java-3.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b32aba0cbe737a4ca953f71688725972e3ee927c">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/protobuf-java-3.4.0_98901eb956855aeff324ad9af698048d20f3a700.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.android/build-cache/7f11634215727f6e1ad1df2035b397266462e7fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="cfd3b9753304d4074439c3f291ce5b7a43a188e7">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/classes_49f9a8de0d566d8022af5d715e9a84e1a371377e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_13e770bf51692d1206b268b44943ef020308b441.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.android/build-cache/345fbc13fcd1b51b8571b3ac562a52bcb9824622/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/classes_f56ec87af013e2ddd11bdf76bb4280ad86a4ea1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.android/build-cache/f4188c7f5ac0749374e8d7bbde80aae516112970/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/classes_d41f403e72f9c6a5254986b725d3db0499393ffa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_8510a83be37548b33301d469a6c0f08c70a910ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.android/build-cache/d57fe422f95eebad76dac8aa18f6fa430c0e61b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/classes_4a4f1c571ec0077549f2d7a241ba4a493c035ab2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.gradle/caches/modules-2/files-2.1/cn.leancloud.android/avoscloud-sdk/v4.6.4/794761923b276db14c9630afabf551faa82d5915/avoscloud-sdk-v4.6.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="794761923b276db14c9630afabf551faa82d5915">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/avoscloud-sdk-v4.6.4_72d81fa789e30a9198dc56a75f9fb56005ac6fb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.android/build-cache/6c77320b138f0d752abb10c2e427a0c09c317738/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/classes_accebb0ba1e5bb22305301c6e366622121d7fce9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.android/build-cache/060caae8e0ba1f04cb1724bbf6e2907c4eb14fdf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/classes_9c3092817c4dad10a458df7abb0ce607702864a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.android/build-cache/a97ac8cae6067ae45d3ef20c0f27feaf2eda0356/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/classes_605abdf53fb57e4f1fcc5bd1917137731b53ee5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.android/build-cache/d0d0ecebc464fba9c5535d03b621388f31906220/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/classes_d6fb6ea0269e86bb226f8ec0b338079edbc2386d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.android/build-cache/442bab4d2a7ab2be271196046fe763b1fe954df6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/classes_8da8530fad03408b570d8f60773c24dff6ad94d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.android/build-cache/04e5d26ad49b2853a791d3f75f09ca5c62fbaea6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/classes_132ace64a09fff8b9ca09aa709ff73dcdde12dce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_39ec47afff01850b2d3631d8483595413a7a5d1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_96d5b5454eb031b916d7f767ab5ed41eb13f2463.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.gradle/caches/modules-2/files-2.1/cn.leancloud.android/Java-WebSocket/1.3.2-leancloud/169fd461930335df8099bcbac99c0f206912ced1/Java-WebSocket-1.3.2-leancloud.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="169fd461930335df8099bcbac99c0f206912ced1">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/Java-WebSocket-1.3.2-leancloud_da7a8270047a335d1b00282e5e8471a5155b8458.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_e1659d01aba8861f2e9f321918dcbc7c6b8d47f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_61a056ed2138d5877d901f150ebcdb4379e7dd2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.android/build-cache/5c58b62033a00f54d941a903bc05759ee31db805/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/classes_5dd8504fa6c70d1adc677dded3c7a88d6141c373.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_b3655ed4c212873761b6702246ff7f7d042816f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.android/build-cache/89781e2ad73778f6fb7dbabad19e033620fa0db2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/classes_ecd51de4603c8cf4f53217393158e1f05c360bdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.android/build-cache/ac475741af37c67500682057f933202c31c3b33e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/classes_8ec447beab4ae3bb80976db37bb8a60e2f6121b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.android/build-cache/c2912fb1be5fd5a5d5bce1fdda5f6d2eed3cbcb5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/classes_01ca34ce18c10cf0c99b8e2b56ac69255aeffb97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.android/build-cache/ceb9a2e8144c77c58a18c431b812d22dc93957e3/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_d22938428abf4bb1fa47c49fe4fd89ce0b53a7e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.android/build-cache/ceb9a2e8144c77c58a18c431b812d22dc93957e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/classes_0ee3e3728a043bea881d62a07069a7a018c14272.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.android/build-cache/8a550fb278c60b946528af732ef87bad87c9b79c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/classes_9ee9db9af0a190cfbb61a36c142964786cfa7c4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.android/build-cache/6d8ab78a3bde2f9e663d965fad9ffa445c09de7d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/classes_191c6fce627674f96dec018e98d7b5fc82d608c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_d86de846c892022c8161022bbe825b56caa9c3de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.android/build-cache/f75cba596eb44785a094cc6150b5e2bdf4c897f5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/classes_7705724c9605a4641f51580b0b362e69bc100220.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.2.37/748cbf698e77f2df5061500a79a22e1f479dfec2/fastjson-1.2.37.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="748cbf698e77f2df5061500a79a22e1f479dfec2">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/fastjson-1.2.37_8159b11131c4856b6dea1eb2f7d10713aee1ab49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.android/build-cache/8824ad0aa9e6c1f447e020ac44f0d7fbb69e4091/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/classes_61caea7e278e53eb24619487aaaf47390357e57f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_fd5eb4399d9479c5a8d8d0099012baa624447cf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_40838b1c3a1f24c1a288348c7884d882ece956fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kleinzhong/.android/build-cache/3914a7a28575f4ca52fe7400f7bdae4b1c8913d6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/build/intermediates/pre-dexed/debug/classes_6e30fcd24148f3f53eecfe391690124e35ad8252.jar" />
+    </item>
+
+</items>

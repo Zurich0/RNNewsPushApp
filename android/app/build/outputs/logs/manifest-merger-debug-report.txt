@@ -1,0 +1,254 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:1:1-53:12
+INJECTED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:1:1-53:12
+INJECTED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:1:1-53:12
+INJECTED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:1:1-53:12
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/a5a6b81b5628da38db08eeb6bf5dea70/react-native-0.56.0/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/2a6408162ae72b6b50d8ffce4e1e14f0/appcompat-v7-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [cn.leancloud.android:avoscloud-push:v4.6.4] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/a8c7591c9dc228ea973d0d93923a29f8/avoscloud-push-v4.6.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/3a71c362d1ab35e85219f1dacf03e692/animated-vector-drawable-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/3668f0b1dc2a7f159a8fdfd6f7d7e371/support-vector-drawable-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/36fbeb7794890c37f4a5b4b8f6faa1a0/support-v4-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/6bd21d6dc801eae99ce446158e86ccc1/support-media-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/cc04a640fc6bf8119f9ba7c55644d9b5/support-fragment-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/0e30707507cb79507e18bf638542515a/support-core-utils-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/f0ae345b685fe0fec24a5db27e218391/support-core-ui-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/b265fcbfa454d90f6ae775cba880fb8c/support-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/a847894812bb6b0d8f7d5705d977729b/textlayoutbuilder-1.0.0/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/c63eb0f75723385a49d5ccb0e152445b/fresco-1.9.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/c899b8cdd455537f1bbd1a3565b5f1b6/imagepipeline-okhttp3-1.9.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/131298ed3960ebd9ebacc8297c428ed2/drawee-1.9.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/503c79e71c4994123df1eabd960626c7/imagepipeline-1.9.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/f222c1fcee64c35558fce514a91e0c39/imagepipeline-base-1.9.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/212cddfada575f0acb5702ae619f9f2b/soloader-0.3.0/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/db40f6115ef89491a4fd5ee0532cb804/android-jsc-r174650/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/4ebae4b45172804ba35fca19b7b28bb6/fbcore-1.9.0/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/016519dd5dae03a0fb2149978231920e/runtime-1.0.0/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:1:1-53:12
+INJECTED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:1:1-53:12
+INJECTED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:1:1-53:12
+	package
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:2:5-36
+		INJECTED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:1:1-53:12
+		INJECTED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:1:1-53:12
+		INJECTED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:4:5-78
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/a5a6b81b5628da38db08eeb6bf5dea70/react-native-0.56.0/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/a5a6b81b5628da38db08eeb6bf5dea70/react-native-0.56.0/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:4:22-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:11:22-73
+application
+ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:14:5-51:19
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/a5a6b81b5628da38db08eeb6bf5dea70/react-native-0.56.0/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/a5a6b81b5628da38db08eeb6bf5dea70/react-native-0.56.0/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/2a6408162ae72b6b50d8ffce4e1e14f0/appcompat-v7-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/2a6408162ae72b6b50d8ffce4e1e14f0/appcompat-v7-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/3a71c362d1ab35e85219f1dacf03e692/animated-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/3a71c362d1ab35e85219f1dacf03e692/animated-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/3668f0b1dc2a7f159a8fdfd6f7d7e371/support-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/3668f0b1dc2a7f159a8fdfd6f7d7e371/support-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/36fbeb7794890c37f4a5b4b8f6faa1a0/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/36fbeb7794890c37f4a5b4b8f6faa1a0/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/6bd21d6dc801eae99ce446158e86ccc1/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/6bd21d6dc801eae99ce446158e86ccc1/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/cc04a640fc6bf8119f9ba7c55644d9b5/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/cc04a640fc6bf8119f9ba7c55644d9b5/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/0e30707507cb79507e18bf638542515a/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/0e30707507cb79507e18bf638542515a/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/f0ae345b685fe0fec24a5db27e218391/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/f0ae345b685fe0fec24a5db27e218391/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/b265fcbfa454d90f6ae775cba880fb8c/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/b265fcbfa454d90f6ae775cba880fb8c/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/212cddfada575f0acb5702ae619f9f2b/soloader-0.3.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/212cddfada575f0acb5702ae619f9f2b/soloader-0.3.0/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/db40f6115ef89491a4fd5ee0532cb804/android-jsc-r174650/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/db40f6115ef89491a4fd5ee0532cb804/android-jsc-r174650/AndroidManifest.xml:2:3-17
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/016519dd5dae03a0fb2149978231920e/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/016519dd5dae03a0fb2149978231920e/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:16:9-36
+	android:theme
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:19:9-40
+	android:name
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.leancloudpushdemo.MainActivity
+ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:20:9-29:20
+	android:label
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:23:13-45
+	android:windowSoftInputMode
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:24:13-55
+	android:configChanges
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:22:13-83
+	android:name
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:21:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:27:27-74
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:30:9-86
+	android:name
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:30:19-83
+service#com.avos.avoscloud.PushService
+ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:34:9-66
+	android:name
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:34:18-63
+receiver#com.avos.avoscloud.AVBroadcastReceiver
+ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:35:9-41:20
+	android:name
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:35:19-72
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.USER_PRESENT+action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:36:13-40:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:37:17-79
+	android:name
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:37:25-76
+action#android.intent.action.USER_PRESENT
+ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:38:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:39:25-76
+activity#com.leancloudpushdemo.PushHandlerActivity
+ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:44:9-66
+	android:name
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:44:19-54
+receiver#com.leancloudpushdemo.CustomPushReceiver
+ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:46:9-50:20
+	android:name
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:46:19-74
+intent-filter#action:name:com.cnuip.INNER_NOTI
+ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:47:13-49:29
+action#com.cnuip.INNER_NOTI
+ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:48:17-63
+	android:name
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:48:25-60
+uses-sdk
+INJECTED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/a5a6b81b5628da38db08eeb6bf5dea70/react-native-0.56.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/a5a6b81b5628da38db08eeb6bf5dea70/react-native-0.56.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/2a6408162ae72b6b50d8ffce4e1e14f0/appcompat-v7-26.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/2a6408162ae72b6b50d8ffce4e1e14f0/appcompat-v7-26.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [cn.leancloud.android:avoscloud-push:v4.6.4] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/a8c7591c9dc228ea973d0d93923a29f8/avoscloud-push-v4.6.4/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.leancloud.android:avoscloud-push:v4.6.4] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/a8c7591c9dc228ea973d0d93923a29f8/avoscloud-push-v4.6.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/3a71c362d1ab35e85219f1dacf03e692/animated-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/3a71c362d1ab35e85219f1dacf03e692/animated-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/3668f0b1dc2a7f159a8fdfd6f7d7e371/support-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/3668f0b1dc2a7f159a8fdfd6f7d7e371/support-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/36fbeb7794890c37f4a5b4b8f6faa1a0/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/36fbeb7794890c37f4a5b4b8f6faa1a0/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/6bd21d6dc801eae99ce446158e86ccc1/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/6bd21d6dc801eae99ce446158e86ccc1/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/cc04a640fc6bf8119f9ba7c55644d9b5/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/cc04a640fc6bf8119f9ba7c55644d9b5/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/0e30707507cb79507e18bf638542515a/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/0e30707507cb79507e18bf638542515a/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/f0ae345b685fe0fec24a5db27e218391/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/f0ae345b685fe0fec24a5db27e218391/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/b265fcbfa454d90f6ae775cba880fb8c/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/b265fcbfa454d90f6ae775cba880fb8c/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/a847894812bb6b0d8f7d5705d977729b/textlayoutbuilder-1.0.0/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/a847894812bb6b0d8f7d5705d977729b/textlayoutbuilder-1.0.0/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/c63eb0f75723385a49d5ccb0e152445b/fresco-1.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/c63eb0f75723385a49d5ccb0e152445b/fresco-1.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/c899b8cdd455537f1bbd1a3565b5f1b6/imagepipeline-okhttp3-1.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/c899b8cdd455537f1bbd1a3565b5f1b6/imagepipeline-okhttp3-1.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/131298ed3960ebd9ebacc8297c428ed2/drawee-1.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/131298ed3960ebd9ebacc8297c428ed2/drawee-1.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/503c79e71c4994123df1eabd960626c7/imagepipeline-1.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/503c79e71c4994123df1eabd960626c7/imagepipeline-1.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/f222c1fcee64c35558fce514a91e0c39/imagepipeline-base-1.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/f222c1fcee64c35558fce514a91e0c39/imagepipeline-base-1.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/212cddfada575f0acb5702ae619f9f2b/soloader-0.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/212cddfada575f0acb5702ae619f9f2b/soloader-0.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/4ebae4b45172804ba35fca19b7b28bb6/fbcore-1.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/4ebae4b45172804ba35fca19b7b28bb6/fbcore-1.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/016519dd5dae03a0fb2149978231920e/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/016519dd5dae03a0fb2149978231920e/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/2a6408162ae72b6b50d8ffce4e1e14f0/appcompat-v7-26.1.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/2a6408162ae72b6b50d8ffce4e1e14f0/appcompat-v7-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/3a71c362d1ab35e85219f1dacf03e692/animated-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/3a71c362d1ab35e85219f1dacf03e692/animated-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/3668f0b1dc2a7f159a8fdfd6f7d7e371/support-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/3668f0b1dc2a7f159a8fdfd6f7d7e371/support-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/36fbeb7794890c37f4a5b4b8f6faa1a0/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/36fbeb7794890c37f4a5b4b8f6faa1a0/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/6bd21d6dc801eae99ce446158e86ccc1/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/6bd21d6dc801eae99ce446158e86ccc1/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/cc04a640fc6bf8119f9ba7c55644d9b5/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/cc04a640fc6bf8119f9ba7c55644d9b5/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/0e30707507cb79507e18bf638542515a/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/0e30707507cb79507e18bf638542515a/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/f0ae345b685fe0fec24a5db27e218391/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/f0ae345b685fe0fec24a5db27e218391/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/b265fcbfa454d90f6ae775cba880fb8c/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/b265fcbfa454d90f6ae775cba880fb8c/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/2a6408162ae72b6b50d8ffce4e1e14f0/appcompat-v7-26.1.0/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/2a6408162ae72b6b50d8ffce4e1e14f0/appcompat-v7-26.1.0/AndroidManifest.xml:27:13-51
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/kleinzhong/WebstormProjects/LeancloudPushDemo/android/app/src/main/AndroidManifest.xml:1:1-53:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/016519dd5dae03a0fb2149978231920e/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/016519dd5dae03a0fb2149978231920e/runtime-1.0.0/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/kleinzhong/.gradle/caches/transforms-2/files-2.1/016519dd5dae03a0fb2149978231920e/runtime-1.0.0/AndroidManifest.xml:26:13-58
