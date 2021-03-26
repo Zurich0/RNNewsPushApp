@@ -7,7 +7,7 @@
  */
 
 import React, { Component } from 'react';
-import { Text, View, Platform } from 'react-native';
+import { Platform } from 'react-native';
 import PushService from './services/PushService';
 import FeedsPage from "./src/FeedsPage";
 const MessageBarAlert = require('react-native-message-bar').MessageBar;
@@ -33,10 +33,11 @@ export default class App extends Component<Props> {
   }
 
   render() {
+    // <MessageBarAlert ref="alert" />
     return (
-        <FeedsPage channelName='hhhh'>
-          <MessageBarAlert ref="alert" />
-        </FeedsPage>
+        <FeedsPage
+            channelName="Klein Channel"
+        />
     );
   }
 }

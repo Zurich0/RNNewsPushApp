@@ -30,17 +30,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f603504-d8f0-4176-a30f-9db9cf1d0f2c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../assets/test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/toBack.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/leancloudpushdemo/CustomPushReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/leancloudpushdemo/CustomPushReceiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/leancloudpushdemo/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/leancloudpushdemo/MainApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/LeancloudPushDemo.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/LeancloudPushDemo.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../services/PushService.js" beforeDir="false" afterPath="$PROJECT_DIR$/../services/PushService.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/FeedsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/FeedsPage.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -293,26 +290,30 @@
       <screen x="1792" y="-295" width="2560" height="1415" />
     </state>
     <state x="2721" y="242" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1792.-295.2560.1415/0.25.1792.1022@1792.-295.2560.1415" timestamp="1616501024745" />
-    <state width="2518" height="398" key="GridCell.Tab.0.bottom" timestamp="1616727419981">
+    <state width="2518" height="398" key="GridCell.Tab.0.bottom" timestamp="1616746791303">
       <screen x="1792" y="-295" width="2560" height="1415" />
     </state>
     <state width="1750" height="270" key="GridCell.Tab.0.bottom/1792.-295.2560.1415/0.25.1792.1022@0.25.1792.1022" timestamp="1616725500329" />
     <state width="2518" height="398" key="GridCell.Tab.0.bottom/1792.-295.2560.1415/0.25.1792.1022@1792.-295.2560.1415" timestamp="1616727419981" />
-    <state width="2518" height="398" key="GridCell.Tab.0.center" timestamp="1616727419980">
+    <state width="2518" height="398" key="GridCell.Tab.0.bottom/1792.-295.2560.1415/0.25.1792.1023@1792.-295.2560.1415" timestamp="1616746791303" />
+    <state width="2518" height="398" key="GridCell.Tab.0.center" timestamp="1616746791302">
       <screen x="1792" y="-295" width="2560" height="1415" />
     </state>
     <state width="1750" height="270" key="GridCell.Tab.0.center/1792.-295.2560.1415/0.25.1792.1022@0.25.1792.1022" timestamp="1616725500328" />
     <state width="2518" height="398" key="GridCell.Tab.0.center/1792.-295.2560.1415/0.25.1792.1022@1792.-295.2560.1415" timestamp="1616727419980" />
-    <state width="2518" height="398" key="GridCell.Tab.0.left" timestamp="1616727419980">
+    <state width="2518" height="398" key="GridCell.Tab.0.center/1792.-295.2560.1415/0.25.1792.1023@1792.-295.2560.1415" timestamp="1616746791302" />
+    <state width="2518" height="398" key="GridCell.Tab.0.left" timestamp="1616746791300">
       <screen x="1792" y="-295" width="2560" height="1415" />
     </state>
     <state width="1750" height="270" key="GridCell.Tab.0.left/1792.-295.2560.1415/0.25.1792.1022@0.25.1792.1022" timestamp="1616725500328" />
     <state width="2518" height="398" key="GridCell.Tab.0.left/1792.-295.2560.1415/0.25.1792.1022@1792.-295.2560.1415" timestamp="1616727419980" />
-    <state width="2518" height="398" key="GridCell.Tab.0.right" timestamp="1616727419981">
+    <state width="2518" height="398" key="GridCell.Tab.0.left/1792.-295.2560.1415/0.25.1792.1023@1792.-295.2560.1415" timestamp="1616746791300" />
+    <state width="2518" height="398" key="GridCell.Tab.0.right" timestamp="1616746791303">
       <screen x="1792" y="-295" width="2560" height="1415" />
     </state>
     <state width="1750" height="270" key="GridCell.Tab.0.right/1792.-295.2560.1415/0.25.1792.1022@0.25.1792.1022" timestamp="1616725500329" />
     <state width="2518" height="398" key="GridCell.Tab.0.right/1792.-295.2560.1415/0.25.1792.1022@1792.-295.2560.1415" timestamp="1616727419981" />
+    <state width="2518" height="398" key="GridCell.Tab.0.right/1792.-295.2560.1415/0.25.1792.1023@1792.-295.2560.1415" timestamp="1616746791303" />
     <state x="2725" y="53" key="RollbackChangesDialog" timestamp="1616509357857">
       <screen x="1792" y="-295" width="2560" height="1415" />
     </state>
