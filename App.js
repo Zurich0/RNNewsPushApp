@@ -9,6 +9,7 @@
 import React, { Component } from 'react';
 import { Text, View, Platform } from 'react-native';
 import PushService from './services/PushService';
+import FeedsPage from "./src/FeedsPage";
 const MessageBarAlert = require('react-native-message-bar').MessageBar;
 const MessageBarManager = require('react-native-message-bar').MessageBarManager;
 
@@ -33,10 +34,9 @@ export default class App extends Component<Props> {
 
   render() {
     return (
-      <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-        <Text style={{ fontSize: 24 }}>Leancloud Push Demo</Text>
-        <MessageBarAlert ref="alert" />
-      </View>
+        <FeedsPage channelName='hhhh'>
+          <MessageBarAlert ref="alert" />
+        </FeedsPage>
     );
   }
 }
